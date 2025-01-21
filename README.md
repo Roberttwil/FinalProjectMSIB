@@ -25,7 +25,7 @@ The application uses a Convolutional Neural Network (CNN) based on the Inception
 
 4. Run on Streamlit:
    ```bash
-   streamlit run try.py
+   streamlit run app.py
 
 ### Model Training
   The model is trained using the dataset of lung X-ray images. The training code is available in model_code.ipynb. This notebook contains the following steps:
