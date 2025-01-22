@@ -13,7 +13,9 @@ The application uses a Convolutional Neural Network (CNN) based on the Inception
 - Upload images in JPG, JPEG, or PNG formats. You can also upload multiple image using zip
 - Get the PDF Report for each image along with the classification result and confidence level.
 - Displays the uploaded image along with the classification result and confidence level.
-
+- 
+### Streamlit link
+   https://alusss.streamlit.app/
 ### Installation
 1. Clone this repository:
    ```bash
