@@ -13,7 +13,7 @@ The application uses a Convolutional Neural Network (CNN) based on the Inception
 - Upload images in JPG, JPEG, or PNG formats. You can also upload multiple image using zip
 - Get the PDF Report for each image along with the classification result and confidence level.
 - Displays the uploaded image along with the classification result and confidence level.
-- 
+
 ### Streamlit link
    https://alusss.streamlit.app/
 ### Installation
@@ -41,7 +41,9 @@ The application uses a Convolutional Neural Network (CNN) based on the Inception
 https://www.kaggle.com/datasets/sachinkumar413/covid-pneumonia-normal-chest-xray-images
 
 ### Documentations
-![Deskripsi Gambar](normal_documentation.jpeg)
+![Normal](normal_documentation.jpeg)
+![Covid](covid_documentation.jpeg)
+![Pneumonia](pneumonia_documentation.jpeg)
 
 
 ### License
