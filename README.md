@@ -40,5 +40,9 @@ The application uses a Convolutional Neural Network (CNN) based on the Inception
 ### Dataset Link
 https://www.kaggle.com/datasets/sachinkumar413/covid-pneumonia-normal-chest-xray-images
 
+### Documentations
+![Deskripsi Gambar](normal_documentation.jpeg)
+
+
 ### License
 This project is licensed under the MIT License - see the LICENSE file for details.
