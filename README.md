@@ -19,7 +19,7 @@ The application uses a Convolutional Neural Network (CNN) based on the Inception
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Roberttwil/FinalProjectMSIB.git
+   git clone https://github.com/Roberttwil/covid-pneumonia-detector.git
 
 2. Install the required packages:
    ```bash
