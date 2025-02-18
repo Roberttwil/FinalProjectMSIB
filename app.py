@@ -157,12 +157,6 @@ elif choice == "Klasifikasi":
 elif choice == "Tentang":
     st.title("Tentang Aplikasi")
     st.write("Aplikasi ini menggunakan model deep learning (InceptionV3) untuk mengklasifikasikan gambar X-ray paru-paru menjadi tiga kategori: COVID, Pneumonia, dan Normal.")
-    st.write("### Pengembang:")
-    st.markdown("- Wildan Miladji")
-    st.markdown("- Robert William")
-    st.markdown("- Rayhan Gading")
-    st.markdown("- Yahya Bachtiar")
-    st.markdown("- Siti Arwiyah")
     st.write("### Fitur Utama:")
     st.markdown("- **Klasifikasi gambar individu**: Unggah satu atau beberapa gambar X-ray untuk klasifikasi.")
     st.markdown("- **Klasifikasi file ZIP**: Unggah file ZIP berisi banyak gambar untuk klasifikasi.")
