@@ -15,7 +15,7 @@ The application uses a Convolutional Neural Network (CNN) based on the Inception
 - Displays the uploaded image along with the classification result and confidence level.
 
 ### Streamlit link
-   https://alusss.streamlit.app/
+   https://covid-pneumonia-detector.streamlit.app/
 ### Installation
 1. Clone this repository:
    ```bash
